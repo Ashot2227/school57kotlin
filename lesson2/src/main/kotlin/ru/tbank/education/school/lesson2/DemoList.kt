@@ -2,6 +2,8 @@ package ru.tbank.education.school.lesson2
 
 import kotlin.random.Random
 
+//new edition
+
 object DemoList {
     fun createList(): List<Int> {
         return listOf(Random.nextInt(1, 100),
